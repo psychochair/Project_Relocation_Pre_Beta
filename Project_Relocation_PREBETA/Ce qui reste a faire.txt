@@ -1,0 +1,3 @@
+niveaux 7 à 18
+stars change le num dureing game 
+fuel icone, life icone
